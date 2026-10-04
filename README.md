@@ -29,4 +29,4 @@ An intelligent traffic monitoring system that detects vehicles, tracks them with
 - Edge AI deployment on Jetson Nano
 - Integration with pothole detection system
 
-**Author:** Zainab Shafeeq | Aspiring Researcher at KAIST AI# final_year-project
+**Author:** Zainab Shafeeq | Aspiring Researcher at KAIST AI
